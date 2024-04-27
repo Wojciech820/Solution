@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 900px;
+}
+
+.container {
+    height: 540px;
+    width: 360px;
+    border-radius: 12px;
+    background-color: white;
+    justify-content: center;
+}
+
+.text1 {
+    font-size: 23px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: hsl(218, 44%, 22%);
+    font-family: ;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.text2 {
+    text-align: center;
+    font-family: sans-serif;
+    color: hsl(220, 15%, 55%);
+    padding-top: 20px;
+}
